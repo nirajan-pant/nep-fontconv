@@ -1,0 +1,67 @@
+c:\users\nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\bin\Debug\Nepali Font Converter.exe
+c:\users\nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\bin\Debug\Nepali Font Converter.pdb
+c:\users\nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Form1.resources
+c:\users\nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Properties.Resources.resources
+c:\users\nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.exe
+c:\users\nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.pdb
+C:\Users\Nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\bin\Debug\en\Nepali Font Converter.resources.dll
+C:\Users\Nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\bin\Debug\ne\Nepali Font Converter.resources.dll
+C:\Users\Nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Form1.en.resources
+C:\Users\Nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Form1.ne.resources
+C:\Users\Nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\en\Nepali Font Converter.resources.dll
+C:\Users\Nirajan\documents\visual studio 2010\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\ne\Nepali Font Converter.resources.dll
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\bin\Debug\Nepali Font Converter.exe
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\bin\Debug\Nepali Font Converter.pdb
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\bin\Debug\en\Nepali Font Converter.resources.dll
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\bin\Debug\ne\Nepali Font Converter.resources.dll
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.csprojResolveAssemblyReference.cache
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.AboutUs.resources
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Form1.resources
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Properties.Resources.resources
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Form1.en.resources
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Form1.ne.resources
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.csproj.GenerateResource.Cache
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\en\Nepali Font Converter.resources.dll
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\ne\Nepali Font Converter.resources.dll
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.exe
+C:\Users\Nirajan\Documents\Visual Studio 2012\Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.pdb
+E:\2070-11-14\Documents\Visual Studio 2012\Backup Projects\Nepali Font Converter\Nepali Font Converter\bin\Debug\Nepali Font Converter.exe.config
+E:\2070-11-14\Documents\Visual Studio 2012\Backup Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.exe
+E:\2070-11-14\Documents\Visual Studio 2012\Backup Projects\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.pdb
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\bin\Debug\Nepali Font Converter.exe.config
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.exe
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.pdb
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\bin\Debug\Nepali Font Converter.exe
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\bin\Debug\Nepali Font Converter.pdb
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\bin\Debug\en\Nepali Font Converter.resources.dll
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\bin\Debug\ne\Nepali Font Converter.resources.dll
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.AboutUs.resources
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Form1.resources
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Properties.Resources.resources
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Form1.en.resources
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Form1.ne.resources
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\en\Nepali Font Converter.resources.dll
+D:\Projects\Visual Studio 2012\नेपाली फन्ट परिवर्तक\Nepali Font Converter\Nepali Font Converter\obj\x86\Debug\ne\Nepali Font Converter.resources.dll
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\bin\Debug\Nepali Font Converter.exe.config
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.exe
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.pdb
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\bin\Debug\Nepali Font Converter.exe
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\bin\Debug\Nepali Font Converter.pdb
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\bin\Debug\en\Nepali Font Converter.resources.dll
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\bin\Debug\ne\Nepali Font Converter.resources.dll
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.AboutUs.resources
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.font_converter_main.resources
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Properties.Resources.resources
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.font_converter_main.en.resources
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.font_converter_main.ne.resources
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.csproj.GenerateResource.Cache
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\en\Nepali Font Converter.resources.dll
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\ne\Nepali Font Converter.resources.dll
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\Nepali Font Converter.csproj.ResolveComReference.cache
+E:\Projects\Visual Studio 2012\Projects\Nepali Font Converter\obj\x86\Debug\Nepali_Font_Converter.Forms.wordDocEditor.resources
